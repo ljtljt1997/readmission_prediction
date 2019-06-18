@@ -82,6 +82,12 @@ This visualization shows the values of five different metrics in these five meth
 
    ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/compare.png)
 
+And from the last method, I posted the most important features and its importance score by Random Forest here:
+
+   ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/importance.png)
+
+
+
 
 
 
