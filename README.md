@@ -80,7 +80,7 @@
 
 This visualization shows the values of five different metrics in these five methods:
 
-   ![compare](/Users/ljt/Documents/Madison/DataChat/readmission_prediction/compare.png)
+   ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/compare.png)
 
 
 
