@@ -82,7 +82,7 @@ This visualization shows the values of five different metrics in these five meth
 
    ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/compare.png)
 
-And from the last method, I posted the most important features and its importance score by Random Forest here:
+And from the last method, I posted the most important features and its importance score by Random Forest below. Even though the scores are not high, it could give us a sense of which variables are important towards readmissions.
 
    ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/importance.png)
 
@@ -90,7 +90,15 @@ And from the last method, I posted the most important features and its importanc
 
 
 
+###Future work:
 
+What can be improved include:
+
+- Select useful features based on research or some prior information
+
+- Try different machine learning models and deep learning ones
+
+  ...
 
 
 
