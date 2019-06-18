@@ -86,7 +86,7 @@ And from the last method, I posted the most important features and its importanc
 
    ![compare](https://github.com/ljtljt1997/readmission_prediction/blob/master/importance.png)
 
-###Future work:
+###Future Work:
 
 What can be improved include:
 
