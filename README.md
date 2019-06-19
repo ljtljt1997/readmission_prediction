@@ -96,6 +96,8 @@ What can be improved include:
 
 - Try different machine learning models and deep learning ones
 
+- Use nested cross validation to tune parameters
+
   ...
 
 
